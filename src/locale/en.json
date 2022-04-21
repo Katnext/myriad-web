@@ -1,13 +1,13 @@
 {
   "Experience": {
     "Clone": {
-      "Title": "Clone Eperience"
+      "Title": "Копировать Опыт"
     },
     "Edit": {
-      "Title": "Edit Experience"
+      "Title": "Редакторовать Опыт"
     },
     "Preview": {
-      "Title": "Preview Experience"
+      "Title": "Предварительный просмотр Опыта"
     },
     "Create": {
       "Title": "Create Experience"
